@@ -12,6 +12,9 @@ build_init:
 build_ubuntu: build_init
 	cp -rL $(SOURCESLIDES)/ubuntu $(BUILD)
 
+build_pop-os: build_init
+	cp -rL $(SOURCESLIDES)/pop-os $(BUILD)
+
 build_kubuntu: build_init
 	cp -rL $(SOURCESLIDES)/kubuntu $(BUILD)
 
