@@ -1,3 +1,9 @@
+ubiquity-slideshow-pop (33) zesty; urgency=medium
+
+  * Added Pop slideshow.
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 23 Jun 2017 16:06:06 -0600
+
 ubiquity-slideshow-ubuntu (32) natty; urgency=low
 
   * Add oem-config-ubuntu slideshow.

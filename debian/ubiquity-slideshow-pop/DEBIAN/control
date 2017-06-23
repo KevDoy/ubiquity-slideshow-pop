@@ -1,0 +1,14 @@
+Package: ubiquity-slideshow-pop
+Version: 33
+Architecture: all
+Maintainer: Ian Santopietro <ian@system76.com>
+Installed-Size: 258
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Provides: ubiquity-slideshow
+Section: x11
+Priority: optional
+Homepage: https://github.com/system76/ubiquity-slideshow-pop
+Description: Ubiquity slideshow for Pop
+ A slideshow intended for the Ubiquity installer, designed as a quick
+ introduction to Pop!_OS.
