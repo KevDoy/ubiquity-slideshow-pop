@@ -206,7 +206,8 @@ Inner space is 224px wide.
 	background:none;
 	font-size:13px;
 	line-height:1.2em;
-	color:#F7F6F6;
+	color:#000000;
+	padding: 20px 0 0 0;
 	/*text-shadow:1px 1px 1px #333333;*/
 }
 
